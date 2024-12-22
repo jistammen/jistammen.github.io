@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://jistammen.github.io/",
+  "homepage": "https://jistammen.github.io/jistammen.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "react-tsparticles": "^2.12.2",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }

@@ -10,7 +10,7 @@ function App() {
 
   // Fetch Cocktails From The Backend
   useEffect(() => {
-    fetch('http://127.0.0.1:8000/api/cocktails/')
+    fetch('http://jistammen.github.io/api/cocktails/')
       .then(response => response.json())
       .then(data => setCocktails(data))
       .catch(error => console.error('Error fetching data:', error));
