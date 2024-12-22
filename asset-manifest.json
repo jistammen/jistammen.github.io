@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jistammen.github.io/static/css/main.bef98f94.css",
+    "main.js": "/jistammen.github.io/static/js/main.2aadaf1d.js",
+    "static/js/453.8ab44547.chunk.js": "/jistammen.github.io/static/js/453.8ab44547.chunk.js",
+    "index.html": "/jistammen.github.io/index.html",
+    "main.bef98f94.css.map": "/jistammen.github.io/static/css/main.bef98f94.css.map",
+    "main.2aadaf1d.js.map": "/jistammen.github.io/static/js/main.2aadaf1d.js.map",
+    "453.8ab44547.chunk.js.map": "/jistammen.github.io/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef98f94.css",
+    "static/js/main.2aadaf1d.js"
+  ]
+}
